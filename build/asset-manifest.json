@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tutorial-Complete-React-Zero-To-Mastery/static/css/main.0380a219.chunk.css",
+    "main.js": "/Tutorial-Complete-React-Zero-To-Mastery/static/js/main.6dcde442.chunk.js",
+    "main.js.map": "/Tutorial-Complete-React-Zero-To-Mastery/static/js/main.6dcde442.chunk.js.map",
+    "runtime-main.js": "/Tutorial-Complete-React-Zero-To-Mastery/static/js/runtime-main.c2bd9ef7.js",
+    "runtime-main.js.map": "/Tutorial-Complete-React-Zero-To-Mastery/static/js/runtime-main.c2bd9ef7.js.map",
+    "static/js/2.4058bf1b.chunk.js": "/Tutorial-Complete-React-Zero-To-Mastery/static/js/2.4058bf1b.chunk.js",
+    "static/js/2.4058bf1b.chunk.js.map": "/Tutorial-Complete-React-Zero-To-Mastery/static/js/2.4058bf1b.chunk.js.map",
+    "static/js/3.40a5e786.chunk.js": "/Tutorial-Complete-React-Zero-To-Mastery/static/js/3.40a5e786.chunk.js",
+    "static/js/3.40a5e786.chunk.js.map": "/Tutorial-Complete-React-Zero-To-Mastery/static/js/3.40a5e786.chunk.js.map",
+    "index.html": "/Tutorial-Complete-React-Zero-To-Mastery/index.html",
+    "static/css/main.0380a219.chunk.css.map": "/Tutorial-Complete-React-Zero-To-Mastery/static/css/main.0380a219.chunk.css.map",
+    "static/js/2.4058bf1b.chunk.js.LICENSE.txt": "/Tutorial-Complete-React-Zero-To-Mastery/static/js/2.4058bf1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2bd9ef7.js",
+    "static/js/2.4058bf1b.chunk.js",
+    "static/css/main.0380a219.chunk.css",
+    "static/js/main.6dcde442.chunk.js"
+  ]
+}
